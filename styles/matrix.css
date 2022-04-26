@@ -1,0 +1,17 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+
+/* body{
+    overflow-x: hidden;
+    background: black;
+} */
+
+canvas{
+    /* overflow-x: hidden; */
+    position: absolute;
+    top: 1000px;
+    left: 0;
+}

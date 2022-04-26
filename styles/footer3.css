@@ -1,0 +1,80 @@
+.footer3{
+    width: 80%;
+    display: flex;
+    gap: 24px;
+    flex-wrap: wrap;
+    margin: 24px 0px 24px 10%;
+    justify-content: center;  
+}
+
+.colun{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    width: 190px;
+}
+.colun a{
+    text-decoration: none;
+}
+.colunContato{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    width: 190px;
+}
+.colunContato a{
+    text-decoration: none;
+}
+#accordionFooter{
+    display: none;
+}
+.titleFooter3{
+    font-weight: bold;
+    font-size: 18px;
+    color: black;
+    text-decoration: none;
+}
+
+.footer3CollapseText a{
+    text-decoration: none;
+}
+
+.card-header3{
+    width: 405px;
+   
+}
+.card-header3 button{
+   
+    margin: 0px auto;
+}
+
+.normal{
+    font-size: 14px;
+    color: rgb(23, 23, 23);
+}
+
+
+
+.phone{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    gap: 5px;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 5px;
+    text-decoration: none;
+    height: 36px;
+    width: 200px;
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+}
+.phone p{
+padding-top: 13px;
+}
+.textoColun{
+    font-size: 12px;
+}
+.textoColun1{
+    font-weight: bold;
+}
